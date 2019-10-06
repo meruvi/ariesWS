@@ -11,7 +11,7 @@ import com.meruvia.ariesWS.model.Personal;
 import com.meruvia.ariesWS.repository.PersonalRepository;
 
 @RestController
-@RequestMapping("/api/aries")
+@RequestMapping("/aries")
 public class PersonalController {
 
 	@Autowired
